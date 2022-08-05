@@ -13,7 +13,7 @@ export default function About() {
   return (
     <>
       <Head>
-        <title>About Me | Sendhyrama's Web</title>
+        <title>About | Sendhyrama's Web</title>
       </Head>
 
       <Box textAlign="center" mb={10}>

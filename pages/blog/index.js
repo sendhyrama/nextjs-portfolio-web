@@ -24,7 +24,7 @@ export default function Blog({ posts }) {
   return (
     <>
       <Head>
-        <title>Blog | Next Portfolio</title>
+        <title>Blog | Sendhyrama's Web</title>
       </Head>
 
       <Box textAlign="center" mb={10}>
@@ -52,7 +52,7 @@ export default function Blog({ posts }) {
                 bgColor={bgColor}
                 border="1px"
                 borderColor="inherit"
-                borderRadius="6px"
+                borderRadius="25px"
                 cursor="pointer"
                 _hover={{
                   textDecoration: "none",
