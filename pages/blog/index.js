@@ -24,13 +24,14 @@ export default function Blog({ posts }) {
   return (
     <>
       <Head>
-        <title>Blog | Sendhyrama's Web</title>
+        <title>Blog - Sendhyrama's Web</title>
       </Head>
 
       <Box textAlign="center" mb={10}>
         <Heading as="h1" fontSize="4xl">
-          Blog
+          Blog / Article
         </Heading>
+        <br></br><h1>Under development, coming soon...</h1>
       </Box>
 
       <VStack w="100%" spacing={6}>

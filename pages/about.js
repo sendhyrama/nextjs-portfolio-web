@@ -4,16 +4,19 @@ import data from "@/data/about.json";
 import socials from "@/data/socials.json";
 import { Box, Grid, Heading, Link, ListItem, Text, UnorderedList, useColorModeValue, VStack } from "@chakra-ui/react";
 import BackButton from "@/components/buttons/BackButton";
+import { InlineLink } from "@/components/link/InlineLink";
+import siteConfig from "@/config/siteConfig";
 
 export default function About() {
   const bgColor = useColorModeValue("gray.200", "#12151d");
   const textColor = useColorModeValue("gray.800", "gray.300");
   const linkColor = useColorModeValue("blue.600", "blue.400");
+  const target = siteConfig.links;
 
   return (
     <>
       <Head>
-        <title>About | Sendhyrama's Web</title>
+        <title>About - Sendhyrama's Web</title>
       </Head>
 
       <Box textAlign="center" mb={10}>
@@ -26,7 +29,7 @@ export default function About() {
         <Box w="full">
           <VStack fontSize={["md", "lg"]} textColor={textColor} lineHeight={1.8} spacing={6}>
             <Text>
-              I am Sendhy Ramadhinata, an undergraduate student of Information System, Computer Science Faculty at UPN "Veteran" Jawa Timur.{" "} 
+              I am Sendhy Ramadhinata, an undergraduate student of Information System, Computer Science Faculty at {" "} <InlineLink href={target.UPNVJT} name="UPN Veteran Jawa Timur"/>{". "}
               <i className="twa twa-flag-indonesia"></i>
             </Text>
             <Text>

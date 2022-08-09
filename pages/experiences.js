@@ -7,7 +7,7 @@ export default function Experiences() {
   return (
     <>
       <Head>
-        <title>Experiences | Sendhyrama's Web</title>
+        <title>Experiences - Sendhyrama's Web</title>
       </Head>
 
       <Box textAlign="center" mb={10}>
