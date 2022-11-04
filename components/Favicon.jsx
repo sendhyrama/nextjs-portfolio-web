@@ -3,7 +3,7 @@ import Head from "next/head";
 export default function Favicon() {
 	return (
 		<Head>
-			<link rel="icon" href="../icons/favicon.ico" />
+			<link rel="icon" href="../icons/s-logo.png" />
 			<link
 				rel="apple-touch-icon"
 				sizes="57x57"
