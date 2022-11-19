@@ -1,26 +1,26 @@
 [
   {
     "id": 3,
-    "title": "Live Crypto Price",
-    "desc": "-",
-    "url": "https://live-crypto-price.vercel.app",
+    "title": "Tictactoe Game 🎮",
+    "desc": "Build with vanilla JS",
+    "url": "https://tictactoe-game-six.vercel.app",
     "date": "Nov 18, 2022",
     "tag": "project"
   },
   {
     "id": 2,
-    "title": "Tictactoe Game",
-    "desc": "-",
-    "url": "https://tictactoe-game-six.vercel.app ",
-    "date": "Aug 3, 2022",
+    "title": "Staycation.id 💤",
+    "desc": "Travel Website using MERN Stack",
+    "url": "https://github.com/sendhyrama/staycation.id",
+    "date": "Oct 26, 2022",
     "tag": "project"
   },
   {
     "id": 1,
-    "title": "Staycation.id",
-    "desc": "Furniture Website E-Commerce using Laravel 8 and Tailwind CSS",
-    "url": "https://github.com/sendhyrama/staycation.id",
-    "date": "Nov 18, 2022",
+    "title": "Senspace ⚡",
+    "desc": "Furniture Website E-Commerce using Laravel 8 & Tailwind CSS",
+    "url": "https://github.com/sendhyrama/senspace",
+    "date": "Oct 4, 2022",
     "tag": "project"
   }
 ]
