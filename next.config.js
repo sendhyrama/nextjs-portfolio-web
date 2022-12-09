@@ -8,7 +8,7 @@ const nextConfig = {
     return [
       {
         source: "/link",
-        destination: "https://sendhyrama.github.io/link",
+        destination: "https://sebdhyrama.github.io/link",
         permanent: true,
       },
     ];

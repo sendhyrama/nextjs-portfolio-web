@@ -1,6 +1,6 @@
 const siteConfig = {
   info: {
-    title: "Hello, I am",
+    title: "Howdy, I am",
     link: "Sendhy!",
     desc: "I have extensive experience in frontend development and love to learn all of new things. Mainly using React.js, Next.js, Chakra UI, and Headless CMS.",
     more: "I'm currently looking for a new opportunity. Let's connect with me ",
