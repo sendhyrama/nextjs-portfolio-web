@@ -31,7 +31,7 @@ export default function Blog({ posts }) {
         <Heading as="h1" fontSize="4xl">
           My Projects
         </Heading>
-        <br></br><h1>Under development, coming soon...</h1>
+        <br></br><h1>Whoops, this page is still on progress!</h1>
       </Box>
 
       <VStack w="100%" spacing={6}>
