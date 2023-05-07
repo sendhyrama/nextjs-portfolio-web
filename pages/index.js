@@ -70,7 +70,7 @@ export default function Home() {
               bounceDamping: 10,
             }}
           >
-            <Image src="/img/memoji-me.png" width={260} height={260} alt="Home memoji" priority={true} />
+            <Image src="/img/sensprofile.jpg" width={260} height={260} style={{ borderRadius: '50%' }} alt="Sensprofile" priority={true} />
           </motion.div>
         </Box>
       </Stack>
