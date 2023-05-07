@@ -15,6 +15,7 @@ const siteConfig = {
     primary: "https://www.linkedin.com/in/sendhyrama",
     kampusMerdeka: "https://kampusmerdeka.kemdikbud.go.id",
     Skilvul: "https://skilvul.com",
+    Bangkit: "https://grow.google/intl/id_id/bangkit",
     UPNVJT: "https://upnjatim.ac.id",
   },
 };

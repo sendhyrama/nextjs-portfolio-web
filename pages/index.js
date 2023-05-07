@@ -28,8 +28,8 @@ export default function Home() {
             <Text>{siteConfig.info.desc}</Text>
 
             <Text>
-              Currently participated in a UI/UX Design Mastery at {" "} <InlineLink href={target.Skilvul} name="Skilvul" /> as a part of{" "}
-              <InlineLink href={target.kampusMerdeka} name="MSIB - Kampus Merdeka" /> Batch 3.
+              Currently participating in {" "} <InlineLink href={target.Bangkit} name="Bangkit Academy 2023" /> as Cloud Computing Cohort. as a part of{" "}
+              <InlineLink href={target.kampusMerdeka} name="MSIB - Kampus Merdeka" /> Batch 4.
             </Text>
 
             <Text>
