@@ -28,7 +28,7 @@ export default function Home() {
             <Text>{siteConfig.info.desc}</Text>
 
             <Text>
-              Currently participating in {" "} <InlineLink href={target.Bangkit} name="Bangkit Academy 2023" /> as Cloud Computing Cohort. as a part of{" "}
+              Currently participating in {" "} <InlineLink href={target.Bangkit} name="Bangkit Academy 2023" /> as Cloud Computing Cohort. This program is part of{" "}
               <InlineLink href={target.kampusMerdeka} name="MSIB - Kampus Merdeka" /> Batch 4.
             </Text>
 
